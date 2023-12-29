@@ -10,11 +10,11 @@ As a Data Analyst at a Real Estate Investment Trust, the objective is to initiat
 
 **Module 1: Importing Data sets**
 
-In the initial stages of the project, we began by importing the dataset and displaying the first 5 columns of the dataframe using the `head` method. 
+In the initial stages of the project, I began by importing the dataset and displaying the first 5 columns of the dataframe using the `head` method. 
 
 ![Module 1](https://github.com/AashishhSharmaa/Predictive_Housing_Analysis-JupyterLite_and_Python/assets/152653168/9d0ac3b4-2301-4719-8c83-5f3a5bd95c3e)
 
-Additionally, we employed the `dtypes` function to unveil the data types of each column, laying the foundation for a comprehensive understanding of the dataset's structure.
+Additionally, I employed the `dtypes` function to unveil the data types of each column, laying the foundation for a comprehensive understanding of the dataset's structure.
 
 **Question 1:**
 ![QUESTION 1 ](https://github.com/AashishhSharmaa/Predictive_Housing_Analysis-JupyterLite_and_Python/assets/152653168/9c0dbe76-82f8-49fa-90a1-512238007435)
